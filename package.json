@@ -1,0 +1,17 @@
+{
+  "name": "testlit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "es-dev-server --app-index index.html --node-resolve --watch --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "^2.7.5"
+  },
+  "devDependencies": {
+    "es-dev-server": "^2.1.0"
+  }
+}
